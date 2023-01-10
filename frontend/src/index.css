@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap");
+
+html {
+  box-sizing: border-box;
+  font-size: calc(13px + 0.190625vw);
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  box-sizing: inherit;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0;
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 2rem;
+}
+h4 {
+  font-weight: 500;
+  font-size: 1.1rem;
+}
+
+h5 {
+  font-weight: 500;
+  font-size: 1rem;
+}
+p {
+  font-weight: 400;
+  font-size: 1rem;
+}
