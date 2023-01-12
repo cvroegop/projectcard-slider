@@ -14,6 +14,8 @@ It features a design but can be stripped to match the design of the main page.<b
 - Typescript
 - React Hooks
 - styled components
+### Demo
+**For a live demo** check out: [Codesandbox](https://codesandbox.io/s/project-card-slider-dk2uqz)
 
 ### `cd frontend && npm start`
 Runs the app in the development mode.
